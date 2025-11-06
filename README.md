@@ -26,6 +26,8 @@ Create a directory named "my-folder"
 
 ## COMMAND AND OUTPUT
 
+![alt text](<img/1 mkdir.png>)
+
 Remove the directory "my-folder"
 
 ## COMMAND AND OUTPUT
