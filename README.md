@@ -25,8 +25,9 @@ Execute the necessary commands/batch file for the desired output.
 Create a directory named "my-folder"
 
 ## COMMAND AND OUTPUT
-
-![alt text](<img/1 mkdir.png>)
+Change to the "MyLab" directory and create an empty text file named "MyFile.txt" inside it.
+%userprofile%\Desktop\MyLab
+![image](https://github.com/Nandhakumar1313/Windows-basic-commands-batchscript/assets/120230694/c206b1a2-a6cd-4a05-8be1-0e757209c1bd)
 
 Remove the directory "my-folder"
 
